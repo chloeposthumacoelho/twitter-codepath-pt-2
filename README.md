@@ -7,4 +7,4 @@ The following required functionality is completed:
 
 # twitter-codepath-pt-2]
 
-https://giphy.com/gifs/xBxIX09ddsUD5baV4V
+https://media.giphy.com/media/xBxIX09ddsUD5baV4V/giphy.gif
